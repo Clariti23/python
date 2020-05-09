@@ -1,0 +1,1 @@
+#A dictionary is a collection that is unordered, changeable and indexed. It does not allow duplicate elements.

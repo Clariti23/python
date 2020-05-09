@@ -32,10 +32,14 @@ fruits_set.add("Tomato")
 # Remove from set
 fruits_set.remove("Tomato")
 
+# Add duplicate
+fruits_set.add("Apples")
+
+print(fruits_set)
 # Clear set
-fruits_set.clear()
+# fruits_set.clear()
 
 # Delete
-del fruits_set
+# del fruits_set
 
 print(fruits_set)
