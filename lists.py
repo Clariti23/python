@@ -31,10 +31,13 @@ fruits.pop(2)
 # Reverse a list
 fruits.reverse()
 
-#Sort a list
+# Sort a list
 fruits.sort()
 
-#Reverse sort
+# Reverse sort
 fruits.sort(reverse=True)
+
+# Change a value in memory
+fruits[0] = "blackberry"
 
 print(fruits)
