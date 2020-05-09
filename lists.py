@@ -1,0 +1,1 @@
+#a list is an ordered, changeable collection that allows duplicate members.
