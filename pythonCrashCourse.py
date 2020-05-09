@@ -18,7 +18,8 @@ a = x + y
 # print(type(a), a) # => <class 'float'> 3.5
 
 #CASTING
-x = str(x)
-y = int(y)
-z = float(y)
-print(type(z), z)
+# x = str(x)
+# y = int(y)
+# z = float(y)
+
+# print(type(z), z)
