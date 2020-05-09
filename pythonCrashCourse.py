@@ -10,11 +10,15 @@
 x, y, name, is_cool = (1, 2.5, 'Grant', True)
 # print(x, y, name, is_cool)
 
-
 # Basic math
 a = x + y
 
 # print(name, is_cool, a) #=> Grant True 3.5
 
-
 # print(type(a), a) # => <class 'float'> 3.5
+
+#CASTING
+x = str(x)
+y = int(y)
+z = float(y)
+print(type(z), z)
